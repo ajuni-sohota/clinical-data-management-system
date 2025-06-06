@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+cdm_env/
+.env
+
+# Data files
+*.db
+*.sqlite
+
+# IDE
+.DS_Store
+.vscode/
+
+# Logs
+*.log
