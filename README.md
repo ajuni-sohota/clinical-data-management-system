@@ -32,6 +32,7 @@ This portfolio project showcases expertise in:
 - **Plotly**: Professional data visualizations
 
 ## 🚀 Live Demo
+![Clinical Trial Dashboard](assets/dashboard_screenshot.png)
 
 ### Key Metrics Demonstrated
 - **100 clinical trial subjects** with complete demographics
