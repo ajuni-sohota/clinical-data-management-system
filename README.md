@@ -33,8 +33,6 @@ This portfolio project showcases expertise in:
 
 ## 🚀 Live Demo
 
-## 🚀 Live Demo
-
 ### **Complete Dashboard Screenshots**
 
 #### Executive Summary Dashboard
