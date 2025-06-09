@@ -32,7 +32,37 @@ This portfolio project showcases expertise in:
 - **Plotly**: Professional data visualizations
 
 ## 🚀 Live Demo
-![Clinical Trial Dashboard](assets/dashboard_screenshot.png)
+
+## 🚀 Live Demo
+
+### **Complete Dashboard Screenshots**
+
+#### Executive Summary Dashboard
+![Executive Summary](assets/dashboard_screenshots/01_executive_summary.png)
+*Real-time enrollment tracking, data quality metrics, and site performance overview*
+
+#### Data Quality Monitoring
+![Data Quality](assets/dashboard_screenshots/02_data_quality.png)
+*ICH-GCP compliance monitoring with automated validation results*
+
+#### Adverse Events Analysis
+![Adverse Events](assets/dashboard_screenshots/03_adverse_events.png)
+*Comprehensive safety monitoring and AE trend analysis*
+
+#### Site Performance Analysis
+![Site Performance](assets/dashboard_screenshots/04_site_performance.png)
+*Multi-site coordination and performance metrics*
+
+#### CDISC Compliance Tracking
+![CDISC Compliance](assets/dashboard_screenshots/05_cdisc_compliance.png)
+*Regulatory submission readiness and standards compliance*
+
+### **Interactive Features Demonstrated**
+- **Real-time Data Processing**: Live updates from clinical database
+- **Risk-Based Monitoring**: Automated alerts and quality indicators  
+- **Multi-dimensional Analysis**: Site, subject, and temporal views
+- **Regulatory Compliance**: ICH-GCP and 21 CFR Part 11 monitoring
+- **Export Capabilities**: Downloadable reports and documentation
 
 ### Key Metrics Demonstrated
 - **100 clinical trial subjects** with complete demographics
